@@ -2,7 +2,7 @@
 // @version     0.5.4
 // @name        YouTube +
 // @namespace   https://github.com/ParticleCore
-// @description YouTube with more freedom
+// @description YouTube with more freedom!
 // @icon        https://raw.githubusercontent.com/ParticleCore/Particle/gh-pages/images/YT%2Bicon.png
 // @match       *://www.youtube.com/*
 // @exclude     *://www.youtube.com/embed/*
